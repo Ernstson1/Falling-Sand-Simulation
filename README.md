@@ -36,7 +36,7 @@ This project demonstrates particle-based simulation expandable C code.
    ./FallingSand
    ```
 
-   ---
+---
 
 ## About the Project
 The Falling Sand Simulation runs on a 2D grid where each cell represents a grain of sand or empty space. 
