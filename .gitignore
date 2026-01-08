@@ -54,6 +54,8 @@ dkms.conf
 # debug information files
 *.dwo
 
+# My own ignored files
 .cache
 .clang-format
 compile_commands.json
+sand_sim
