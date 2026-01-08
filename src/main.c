@@ -6,7 +6,6 @@
 
 #include "grid.h"
 #include "sand.h"
-#include "gui.h"
 
 
 #define WIDTH 900
